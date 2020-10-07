@@ -1,5 +1,2 @@
 # Photo Gallery
-This is a photo gallery web app
-
-## Installation
-TODO
+Just a simple photo gallery web app.
